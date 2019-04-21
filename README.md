@@ -4,3 +4,12 @@
 ### Module 1.1: Numpy 
 ### Module 2: Data Importing
 ### Module 3: Exploratory Data Analysis (EDA) & Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Visual EDA - Histograms, Boxplot, Scatterplot
+- Tidy Data - melt(), pivot(), pivot_table()
+- Sampling Data
+- Removing Erratic Entries
+- Dropping Duplicates
+- Missing Data
+- String Manipulation
+- Using Regex
