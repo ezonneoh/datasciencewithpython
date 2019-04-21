@@ -23,3 +23,9 @@
 - Missing Data
 - String Manipulation
 - Using Regex
+### Module 4: Data Manipulation
+- Pandas Data Frame
+- Accessing Data Frame
+- loc() and iloc()
+- Grouping Data Frame using groupby() 
+- Apply and Map
