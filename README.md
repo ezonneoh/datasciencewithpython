@@ -3,3 +3,4 @@
 ### Module 1: Introduction to Python
 ### Module 1.1: Numpy 
 ### Module 2: Data Importing
+### Module 3: Exploratory Data Analysis (EDA) & Data Cleaning
