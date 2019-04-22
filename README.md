@@ -29,3 +29,11 @@
 - loc() and iloc()
 - Grouping Data Frame using groupby() 
 - Apply and Map
+### Module 5: Data Visualisation
+- Line Chart
+- Scatter Plot
+- Histogram
+- Bubble Chart
+- Emulating ggplot
+- Multiple subplots
+- Exporing plots
