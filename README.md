@@ -36,4 +36,4 @@
 - Bubble Chart
 - Emulating ggplot
 - Multiple subplots
-- Exporing plots
+- Exporting plots
