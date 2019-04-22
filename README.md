@@ -37,3 +37,14 @@
 - Emulating ggplot
 - Multiple subplots
 - Exporting plots
+### Module 6: Applied Machine Learning for Decision Making
+- from sklearn.neighbor import KNeighborsClassifier
+- from sklearn.ensemble import RandomForestClassifier
+- Correlations
+- Confusion Matrix
+- Evaluation Metrics
+- ROC Curve
+- 3 Types of Cross Validation:
+  - K-Fold
+  - Random Sampling
+  - Leave-One-Out
