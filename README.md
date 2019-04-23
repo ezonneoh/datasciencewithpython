@@ -51,7 +51,7 @@
 ### Module 7: Applied Machine Learning for Decision Making 2
 - from sklearn.linear_model import LinearRegression
 - from sklearn.linear_model import Ridge
-- correlations
+- Correlations
 - Cross Validation:
   - K-Fold
   - Random Sampling
