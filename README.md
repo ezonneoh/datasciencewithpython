@@ -56,4 +56,4 @@
   - K-Fold
   - Random Sampling
 ### Extras: LaTeX
-- typing formulas on Jupyter Notebook
+- Typing formulas and unique characters on Jupyter Notebook
