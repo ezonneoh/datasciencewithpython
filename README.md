@@ -55,3 +55,5 @@
 - Cross Validation:
   - K-Fold
   - Random Sampling
+### Extras: LaTeX
+- typing formulas on Jupyter Notebook
